@@ -1,0 +1,44 @@
+Collecting package metadata (current_repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /home/shlee/.conda/envs/finetune
+
+  added / updated specs:
+    - transformers
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    click-8.0.4                |   py37h06a4308_0         152 KB
+    huggingface_hub-0.2.1      |     pyhd3eb1b0_0          52 KB
+    importlib_metadata-1.5.0   |           py37_0          48 KB
+    pyyaml-6.0                 |   py37h7f8727e_1         168 KB
+    regex-2022.7.9             |   py37h5eee18b_0         332 KB
+    sacremoses-0.0.43          |     pyhd3eb1b0_0         284 KB
+    tokenizers-0.11.4          |   py37h3dcd8bd_1         3.6 MB
+    tqdm-4.64.1                |   py37h06a4308_0         126 KB
+    transformers-4.18.0        |   py37h06a4308_0         2.8 MB
+    ------------------------------------------------------------
+                                           Total:         7.6 MB
+
+The following NEW packages will be INSTALLED:
+
+  click              pkgs/main/linux-64::click-8.0.4-py37h06a4308_0
+  filelock           pkgs/main/noarch::filelock-3.6.0-pyhd3eb1b0_0
+  huggingface_hub    pkgs/main/noarch::huggingface_hub-0.2.1-pyhd3eb1b0_0
+  importlib_metadata pkgs/main/linux-64::importlib_metadata-1.5.0-py37_0
+  joblib             pkgs/main/noarch::joblib-1.1.0-pyhd3eb1b0_0
+  pyyaml             pkgs/main/linux-64::pyyaml-6.0-py37h7f8727e_1
+  regex              pkgs/main/linux-64::regex-2022.7.9-py37h5eee18b_0
+  sacremoses         pkgs/main/noarch::sacremoses-0.0.43-pyhd3eb1b0_0
+  tokenizers         pkgs/main/linux-64::tokenizers-0.11.4-py37h3dcd8bd_1
+  tqdm               pkgs/main/linux-64::tqdm-4.64.1-py37h06a4308_0
+  transformers       pkgs/main/linux-64::transformers-4.18.0-py37h06a4308_0
+  yaml               pkgs/main/linux-64::yaml-0.2.5-h7b6447c_0
+
+
+Proceed ([y]/n)? 
